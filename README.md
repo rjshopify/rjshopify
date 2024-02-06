@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rjshopify
-- 👀 I’m interested in innovation in AR, computer vision and crypto
+
 
 
 <!---
